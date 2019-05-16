@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g   CMakeFiles/if_swicth_with_initialization.dir/main.cpp.o  -o if_swicth_with_initialization -lstdc++fs 
