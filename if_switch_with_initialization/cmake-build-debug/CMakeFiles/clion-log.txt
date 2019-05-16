@@ -1,4 +1,0 @@
-/home/untouch/software/clion-2018.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/untouch/github/cpp17/if_switch_with_initialization
--- Configuring done
--- Generating done
--- Build files have been written to: /home/untouch/github/cpp17/if_switch_with_initialization/cmake-build-debug

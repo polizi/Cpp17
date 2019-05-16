@@ -1,3 +1,0 @@
-/home/untouch/github/cpp17/if_switch_with_initialization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/untouch/github/cpp17/if_switch_with_initialization/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/untouch/github/cpp17/if_switch_with_initialization/cmake-build-debug/CMakeFiles/if_swicth_with_initialization.dir
